@@ -2,7 +2,7 @@
 
 🚀 **Lead Developer | Full Stack Engineer | Laravel Expert**
 
-Welcome to my GitHub profile! I'm a passionate Laravel Developer with extensive experience in building scalable web applications, user-friendly interfaces, and APIs. I specialize in Laravel, JavaScript frameworks (Vue.js, React), and modern front-end technologies like Tailwind and Alpine.js. Here’s a glimpse of my journey and projects.
+Welcome to my GitHub profile! I'm a passionate Laravel Developer with extensive experience in building scalable web applications, user-friendly interfaces, and APIs. I specialize in Laravel, JavaScript frameworks (Vue.js, React), and modern front-end technologies like Tailwind and Alpine.js.
 
 ## 🛠 **Skills**
 
