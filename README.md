@@ -10,6 +10,3 @@ Welcome to my GitHub profile! I'm a passionate Laravel Developer with extensive 
 - **Front-end**: JavaScript, Vue.js, React.js, Alpine.js, Bootstrap, Tailwind CSS, jQuery, HTML/CSS
 - **APIs**: Google Cloud (Maps, Calendar), Shopify (APIs & Apps), QuickBooks Online API, MS Graph API, Telegram API & Bots
 - **Tools**: GitHub, UX Design, Photoshop
----
-
-Thanks for stopping by! Let's build something amazing together! 😄
