@@ -8,6 +8,4 @@ My goal? To make your hardware sweat while keeping your users smiling (and maybe
 
 🚀 Always open to challenges, collaboration, and maybe a cup of coffee or two to keep things rolling!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrRRohith"/>
-
 ![Rohith's github stats](https://github-readme-stats.vercel.app/api?username=rrRRohith&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
