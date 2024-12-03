@@ -1,11 +1,8 @@
-Hello there! 👋
-I’m a Software Engineer with experience across service-based companies, product-based organizations, and yes, even the freelancer wildlands.
+###Hello there! 👋
+I’m a Software Engineer who’s been everywhere—service companies, product orgs, and the freelancer jungle.
 
-💻 What keeps me going?
-I love building super complex user interfaces with React, Vue, and Alpine.js—the kind of UIs that make your CPU say, "Oh no, not again!" 🖥️🔥
+I build UI beasts with React, Vue, and Alpine.js—so intense your CPU might file for overtime pay. 🔥
 
-My goal? To make your hardware sweat while keeping your users smiling (and maybe scratching their heads, just a little). Whether it’s squeezing every drop of performance or bending the DOM to my will, I’m here for the chaos and the creativity.
-
-🚀 Always open to challenges, collaboration, and maybe a cup of coffee or two to keep things rolling!
+My mission? Make hardware sweat, users smile, and DOMs tremble. Let’s turn chaos into creativity (and maybe break a few benchmarks while we’re at it). 🚀
 
 ![Rohith's github stats](https://github-readme-stats.vercel.app/api?username=rrRRohith&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
