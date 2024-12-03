@@ -1,4 +1,4 @@
-###Hello there! 👋
+### Hello there! 👋
 I’m a Software Engineer who’s been everywhere—service companies, product orgs, and the freelancer jungle.
 
 I build UI beasts with React, Vue, and Alpine.js—so intense your CPU might file for overtime pay. 🔥
