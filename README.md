@@ -6,3 +6,4 @@ I build UI beasts with React, Vue, and Alpine.js—so intense your CPU might fil
 My mission? Make hardware sweat, users smile, and DOMs tremble. Let’s turn chaos into creativity (and maybe break a few benchmarks while we’re at it). 🚀
 
 ![Rohith's github stats](https://github-readme-stats.vercel.app/api?username=rrRRohith&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
+![rrRRohith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rrRRohith&theme=dark&hide_border=true)
