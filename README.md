@@ -3,7 +3,3 @@ I’m a Software Engineer and I build UI beasts with React, Vue, and Alpine.js�
 
 ![rrRRohith's Stats](https://github-readme-stats.vercel.app/api?username=rrRRohith&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![rrRRohith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rrRRohith&theme=dark&hide_border=true)
-
-Contact me on
-📱 +91 9745160487
-✉️ rrhit54@gmail.com
